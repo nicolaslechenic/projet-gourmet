@@ -1,0 +1,7 @@
+plugins:
+  stylelint:
+    enabled: true  
+  eslint:
+    enabled: true
+  csslint:
+    enabled: true
